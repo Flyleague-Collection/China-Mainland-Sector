@@ -1,4 +1,4 @@
-# China-Mainland-sector 开源扇区 (中国大陆)
+# China-Mainland-Sector 开源扇区 (中国大陆)
 **由于中国港澳台地区使用不同的飞行规则，我们暂时没有制作相关扇区，预计在AIRAC2501能完善港澳台地区的扇区**
 
 China-Mainland-sector开源扇区项目致力于提供免费、开源的 Euroscope 扇区以帮助来自世界各地的模拟管制爱好者获得更好的模拟飞行体验。
