@@ -1,4 +1,15 @@
 PLUGINS
+MTEPlugin:CustomCursor:1
+MTEPlugin:AutoRetrack:2
+MTEPlugin:Color/CFLNotAckd:255:255:255
+MTEPlugin:Color/RvsmV:255:255:255
+MTEPlugin:Color/RvsmX:255:255:255
+MTEPlugin:Color/CoordFlag:255:255:255
+MTEPlugin:Unit/Indicator2O:
+MTEPlugin:Unit/Indicator2X:\0
+MTEPlugin:GS/IncreaseMark:A
+MTEPlugin:GS/StableMark: 
+MTEPlugin:GS/DecreaseMark:L
 TopSky plugin:ACList/HOLDING LIST/m_Visible:0
 TopSky plugin:ACList/HOLDING LIST/m_X:20
 TopSky plugin:ACList/HOLDING LIST/m_Y:20
