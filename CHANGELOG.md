@@ -49,3 +49,5 @@
 ## 2512.1
 
 32. 更新2512基础包
+32. 修复`Ground Radar display`和`Standard ES radar screen`写反，导致Topsky.dll`Unload`后，奔溃的bug
+32. 修复tag显示黑色看不清的问题

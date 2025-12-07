@@ -4,24 +4,24 @@ LastSession	server	Flyatcsim
 Settings	sector	\ZYSH.sct
 
 Plugins	Plugin0	\..\Data\Plugins\MTEP\MTEPlugin.dll
-Plugins	Plugin0Display0	Standard ES radar screen
-Plugins	Plugin0Display1	Ground Radar display
+Plugins	Plugin0Display0	Ground Radar display
+Plugins	Plugin0Display1	Standard ES radar screen
 
 Plugins	Plugin1	\Plugins\TopSky\TopSky.dll
-Plugins	Plugin1Display0	Standard ES radar screen
-Plugins	Plugin1Display1	Ground Radar display
+Plugins	Plugin1Display0	Ground Radar display
+Plugins	Plugin1Display1	Standard ES radar screen
 
 Plugins	Plugin2	\Plugins\GRplugin\GRplugin.dll
-Plugins	Plugin2Display0	Standard ES radar screen
-Plugins	Plugin2Display1	Ground Radar display
+Plugins	Plugin2Display0	Ground Radar display
+Plugins	Plugin2Display1	Standard ES radar screen
 
 Plugins	Plugin3	\..\Data\Plugins\VCH\VCH.dll
-Plugins	Plugin3Display0	Standard ES radar screen
-Plugins	Plugin3Display1	Ground Radar display
+Plugins	Plugin3Display0	Ground Radar display
+Plugins	Plugin3Display1	Standard ES radar screen
 
 Plugins	Plugin4	\Plugins\DxRenderPlugin\DxRenderPlugin.dll
-Plugins	Plugin4Display0	Standard ES radar screen
-Plugins	Plugin4Display1	Ground Radar display
+Plugins	Plugin4Display0	Ground Radar display
+Plugins	Plugin4Display1	Standard ES radar screen
 
 ASRFastKeys	1	\ASRs\ZYSH_ACC.asr
 ASRFastKeys	2	\ASRs\ZYCC_GMC.asr
