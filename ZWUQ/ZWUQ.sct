@@ -1,15 +1,18 @@
------------------------------------------------------------------
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+
+;-----------------------------------------------------------------
 ;China-Mainland-Sector SCT Data File
 ;The data file intended for simulator only Do not use for reality
-;AIRAC Cycle : 2512 (27/NOV/2025-25/DEC/2025) - Ver.1
-;Creative time:GMT (UTC+8) 2025-11-30 00:05:25
+;AIRAC Cycle : 2512 (27/NOV/2025-25/DEC/2025) - Ver.3
+;Creative time:GMT (UTC+8) 2025-12-27 00:29:49
 ;-----------------------------------------------------------------
 
 ;A part of the ground sector data is from OpenStreetMap "https://www.openstreetmap.org/copyright"
 
 
 [INFO]
-ZWUQ 2512/1-1 Powered By Flyleague-Collection ZWUQ 20251129160558
+ZWUQ 2512/1-1 Powered By Master-Gui-Studio ZWUQ 20251129160558
 ZWUQ_CTR
 ZWUQ
 N040.07.38.226

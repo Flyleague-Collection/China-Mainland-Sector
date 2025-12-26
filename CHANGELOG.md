@@ -59,4 +59,8 @@
 
 ## 2512.3
 
+- 修改CHANGELOG样式
 - 补充武汉FIR 缺少ACC的prf文件([#10](https://github.com/Master-Gui-Studio/China-Mainland-Sector/issues/10))
+- 更新版本号
+
+## 2513.1
