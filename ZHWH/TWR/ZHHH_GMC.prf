@@ -1,11 +1,12 @@
 Settings	sector	/../ZHWH.sct
-Plugins	Plugin0	/../Data/Plugins/MTEP/MTEPlugin.dll
+Plugins	Plugin0	/../../Data/Plugins/MTEP/MTEPlugin.dll
+
 Plugins	Plugin0Display0	Ground Radar display
 Plugins	Plugin0Display1	Standard ES radar screen
-Plugins	Plugin1	/../Plugins/TopSky/TopSky.dll
+Plugins	Plugin1	/../Plugins/GRplugin/GRplugin.dll
 Plugins	Plugin1Display0	Ground Radar display
 Plugins	Plugin1Display1	Standard ES radar screen
-Plugins	Plugin2	/../Plugins/GRplugin/GRplugin.dll
+Plugins	Plugin2	/../Plugins/TopSky/TopSky.dll
 Plugins	Plugin2Display0	Ground Radar display
 Plugins	Plugin2Display1	Standard ES radar screen
 Plugins	Plugin3	/../../Data/Plugins/VCH/VCH.dll
