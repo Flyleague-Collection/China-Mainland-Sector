@@ -1,5 +1,5 @@
 ;-----------------------------------------------------------------
-;China Mainland Sector Package ICAO AIRCRAFT Data File
+;China-Mainland-Sector ICAO AIRCRAFT Data File
 ;The data file intended for simulator only Do not use for reality
 ;AIRAC Cycle : 2501 (23/JAN/2025-20/FEB/2025) - Ver.1
 ;Creative time:GMT (UTC+8) 2025-02-02 13:46:41
