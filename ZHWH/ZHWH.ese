@@ -1,10 +1,8 @@
-　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 ;-----------------------------------------------------------------
 ;China-Mainland-Sector ESE Data File
 ;The data file intended for simulator only Do not use for reality
-;AIRAC Cycle : 2513 (25/DEC/2025-22/JAN/2026) - Ver.1
-;Creative time:GMT (UTC+8) 2025-12-28 11:51:36
+;AIRAC Cycle : 2513 (25/DEC/2025-22/JAN/2026) - Ver.2
+;Creative time:GMT (UTC+8) 2026-01-10 09:16:54
 ;-----------------------------------------------------------------
 
 [AIRSPACE]
