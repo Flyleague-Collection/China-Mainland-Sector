@@ -17,6 +17,9 @@ Plugins	Plugin4Display1	Standard ES radar screen
 Plugins	Plugin5	/../Plugins/DxRenderPlugin/DxRenderPlugin.dll
 Plugins	Plugin5Display0	Ground Radar display
 Plugins	Plugin5Display1	Standard ES radar screen
+Plugins	Plugin6	/../../Data/Plugins/Injector/EuroScopeInjector.dll
+Plugins	Plugin6Display0	Ground Radar display
+Plugins	Plugin6Display1	Standard ES radar screen
 Settings	aircraft	/../../Data/ICAO/ICAO_Aircraft.txt
 Settings	airlines	/../../Data/ICAO/ICAO_Airlines.txt
 Settings	airports	/../../Data/ICAO/ICAO_Airports.txt

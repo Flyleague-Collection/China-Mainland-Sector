@@ -57,6 +57,7 @@ China-Mainland-sector开源扇区项目致力于提供免费、开源的 Eurosco
 | VCH Plugin                  | [Jan Fries](https://github.com/DrFreas)                      |
 | Compass for Euroscope(闭源) | [William He](https://github.com/Misaka-Nnnnq)                |
 | AirAmaz RenderPlugin(闭源)  | [William He](https://github.com/Misaka-Nnnnq)                |
+| EuroScopeAuthInjector       | [Half-nothing](https://github.com/FSD-Universe/EuroScopeAuthInjector) |
 
 
 
