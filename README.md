@@ -92,6 +92,7 @@ China-Mainland-sector开源扇区项目致力于提供免费、开源的 Eurosco
 - [tn.]()
 - [Zihan Wang]()
 - [Master Gui](https://github.com/supermastergui)
+- [Hank Cai](https://github.com/YuS1ck)
 
 
 
